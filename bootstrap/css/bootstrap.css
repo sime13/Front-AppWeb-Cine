@@ -51,16 +51,11 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #fff;
+  background-color: #ac0000;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-.back{
-  background-color: cornflowerblue;
-  
-  width: 1000px;
-  height: 100vh;
-}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -10838,5 +10833,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+
+
 
 /*# sourceMappingURL=bootstrap.css.map */
